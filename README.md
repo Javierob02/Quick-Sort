@@ -1,2 +1,3 @@
 # Quick-Sort
-Quick sort algorithm
+In order for this to work, redirect the input to file named 'quick_sort_info'
+
