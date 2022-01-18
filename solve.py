@@ -16,7 +16,7 @@ def partition(lista, low, high):
 
 def quick_sort(items, low, high):
     """
-    Quick sort ordena cualquier lista de números más rápido que cualquir otro algoritmo.
+    Quick sort ordena cualquier lista de números más rápido que cualquier otro algoritmo.
     Se basa en la partición de la lista en más pequeñas, las cuales se comparan con el punto de pivote y se modifica.
     Este algoritmo, entra en la categoría del enfoque 'Divide y vencerás'
     """
